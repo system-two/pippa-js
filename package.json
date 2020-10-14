@@ -1,0 +1,19 @@
+{
+  "name": "pippa-js",
+  "version": "0.1.0",
+  "description": "JavaScript library for Pippa",
+  "license": "MIT",
+  "url": "https://github.com/system-two/pippa-js",
+  "author": "Jack Prosser <jack@thingsthat.com>",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/system-two/pippa-js.git"
+  },
+  "main": "pippa.min.js",
+  "module": "pippa.esm.js",
+  "devDependencies": {},
+  "dependencies": {
+      "core-js": "^3.6.5",
+      "cross-fetch": "^3.0.5"
+  }
+}
